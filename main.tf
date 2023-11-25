@@ -1,7 +1,7 @@
 provider "aws" {
     region = var.region
     access_key = "abc"
-    secret_key = "def"
+    secret_key = "def/V/ghi"
   
 }
 resource "aws_security_group" "sg-grp" {

@@ -1,5 +1,3 @@
-  variable "accesskey" {}
-  variable "secretkey" {}
   variable "sgname" {}
   variable "sg2name" {}
   variable "vpcid" {}

@@ -1,5 +1,3 @@
-  accesskey = "AKIARNCT2OIKVWR4BHJ7"
-  secretkey = "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"
   sgname = "launch-wizard-oct"
   sg2name = "launch-wizard-terrform"
   vpcid = "vpc-0540ceb02314a5536"
